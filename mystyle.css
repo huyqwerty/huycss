@@ -1,0 +1,27 @@
+body {
+        background-color: white;
+        text-align: center;
+        font-family: "Savate", sans-serif;
+        font-optical-sizing: auto;
+        font-style: normal;
+    }
+    h1, h3 {
+        text-align: center;
+        display: inline-block;
+        color: yellow;
+        text-align: center;
+        background-color: green;
+    }
+    p {
+        text-align: center;
+        color: black;
+    }
+    ol {
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        text-align: center;
+    }
+    button{
+        color: chartreuse;
+        background-color: black;
+    }
